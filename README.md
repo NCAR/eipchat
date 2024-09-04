@@ -8,10 +8,10 @@ This repo was forked from a sample app provided by Microsoft and customized for 
 - Blue background to match icon
 
 ## Important Links
-EIPCHATBOT URL: https://eipchatbot.ucar.edu
-Internal Wiki Page: https://wiki.ucar.edu/display/EIP/EIPCHATBOT+-+Azure+OpenAI+Powered+ChatBot
-Base Resource Pulumi Template: https://github.com/NCAR/pulumi-eip-openai-resources
-Runbook repo to update data: https://github.com/NCAR/eip-ai-search-update
+1. EIPCHATBOT URL: https://eipchatbot.ucar.edu
+2. Internal Wiki Page: https://wiki.ucar.edu/display/EIP/EIPCHATBOT+-+Azure+OpenAI+Powered+ChatBot
+3. Base Resource Pulumi Template: https://github.com/NCAR/pulumi-eip-openai-resources
+4. Runbook repo to update data: https://github.com/NCAR/eip-ai-search-update
 
 # [Preview] Sample Chat App with AOAI
 
