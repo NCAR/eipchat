@@ -1,3 +1,18 @@
+# EIPCHATBOT
+
+This repo was forked from a sample app provided by Microsoft and customized for EIP.  The original repo can be found at https://github.com/microsoft/sample-app-aoai-chatGPT
+
+## EIP Customizations
+- EIPCHATBOT Icon
+- Title and description
+- Blue background to match icon
+
+## Important Links
+EIPCHATBOT URL: https://eipchatbot.ucar.edu
+Internal Wiki Page: https://wiki.ucar.edu/display/EIP/EIPCHATBOT+-+Azure+OpenAI+Powered+ChatBot
+Base Resource Pulumi Template: https://github.com/NCAR/pulumi-eip-openai-resources
+Runbook repo to update data: https://github.com/NCAR/eip-ai-search-update
+
 # [Preview] Sample Chat App with AOAI
 
 This repo contains sample code for a simple chat webapp that integrates with Azure OpenAI. Note: some portions of the app use preview APIs.
